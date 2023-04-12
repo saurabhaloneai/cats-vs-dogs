@@ -41,6 +41,4 @@ credit to @LukaszMalucha for his help
 * https://github.com/mvmanh/dog-cat-classification
 ### Next Steps
 * Deploy with Docker
-* More Deep Learning apps
 
-Kevin DEGILA
